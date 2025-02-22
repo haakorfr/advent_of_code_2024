@@ -1,4 +1,4 @@
-f = open("1_input.txt","r")
+f = open("input.txt","r")
 s = f.readlines()
 
 l1 = []
