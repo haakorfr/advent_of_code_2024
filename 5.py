@@ -1,6 +1,6 @@
 import numpy as np
 
-f = open("input.txt","r")
+f = open("5_input.txt","r")
 s = f.readlines()
 
 M = np.zeros((100,100),dtype=int)
